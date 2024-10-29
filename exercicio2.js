@@ -4,7 +4,7 @@ const num = parseInt(input.question("Digite um número: "));
 let a = 0, b = 1, c;
 let pertence = false;
 
-if (num === 0 || num === 1) {
+if (num === 0 || num === 1){
     pertence = true;
 } else {
     for (let i = 2; i <= num; i++) {
