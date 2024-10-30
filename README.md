@@ -10,7 +10,7 @@ Você pode acessar a versão hospedada do projeto através do link abaixo:
 [**Acesse o site aqui**](https://code-challenge-target.vercel.app/)
 
 
-## Acesso no dispositivo local
+- ## Acesso no dispositivo local
 
 Você pode acessar a versão local do projeto seguindo o passo a passo abaixo:
 
