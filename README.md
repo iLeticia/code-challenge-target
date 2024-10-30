@@ -1,14 +1,30 @@
 # Code Challenge - Software Developer Test
 
-Este repositório contém cinco atividades desenvolvidas em JavaScript para um desafio técnico. Cada atividade é acessível através de rotas configuradas em um servidor Node.js, facilitando a visualização e o teste dos resultados.
+Este repositório contém um site com cinco atividades desenvolvidas em HTML, CSS e JavaScript para um desafio técnico. Cada atividade é acessível através de uma rota remota e uma local, configuradas em um servidor Node.js, facilitando a visualização e o teste dos resultados.
+
+
+- ## Acesso ao Site
+
+Você pode acessar a versão hospedada do projeto através do link abaixo:
+
+[**Acesse o site aqui**](code-challenge-target-at7e1q4ez-leticiaramos-projects.vercel.app)
+
+
+## Acesso no dispositivo local
+
+Você pode acessar a versão local do projeto seguindo o passo a passo abaixo:
+
 
 ## Configuração e Execução
 
 Siga os passos abaixo para configurar e executar o servidor localmente.
 
+
 ### Pré-requisitos
 
 - Node.js instalado em sua máquina. [Baixe aqui](https://nodejs.org/)
+  
+
 
 ### Passo a Passo
 
