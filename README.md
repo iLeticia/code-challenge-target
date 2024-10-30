@@ -7,7 +7,7 @@ Este repositório contém um site com cinco atividades desenvolvidas em HTML, CS
 
 Você pode acessar a versão hospedada do projeto através do link abaixo:
 
-[**Acesse o site aqui**](code-challenge-target-at7e1q4ez-leticiaramos-projects.vercel.app)
+[**Acesse o site aqui**](https://code-challenge-target.vercel.app/)
 
 
 ## Acesso no dispositivo local
