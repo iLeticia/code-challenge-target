@@ -1,0 +1,24 @@
+{
+  "name": "code-challenge-target",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exercicio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iLeticia/code-challenge-target.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLeticia/code-challenge-target/issues"
+  },
+  "homepage": "https://github.com/iLeticia/code-challenge-target#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
