@@ -38,19 +38,19 @@ Nota: O link deve ser atualizado para o URL real da página hospedada.
 - # 🖥️ Como Executar Localmente
 Se você deseja rodar o projeto localmente, siga os passos abaixo:
 
-Clone o repositório:
+**Clone o repositório**:
 
-bash
-Copy code
-git clone (https://github.com/iLeticia/code-challenge-target)
-cd code-challenge-target-sistemas
+bash<br>
+Copy code<br>
+git clone (https://github.com/iLeticia/code-challenge-target)<br>
+cd code-challenge-target-sistemas<br>
 
 Inicie um servidor local para visualizar a página:
 
-bash
-Copy code
-npx http-server
-Abra o navegador e vá para o endereço fornecido (geralmente, http://localhost:8080).
+bash<br>
+Copy code<br>
+npx http-server<br>
+Abra o navegador e vá para o endereço fornecido (geralmente, http://localhost:8080).<br>
 
 
 - # 📐 Layout e Responsividade
@@ -59,17 +59,17 @@ O layout foi desenvolvido com flexibilidade para se adaptar a diferentes tamanho
 
 
 - # 💡 Funcionalidades Principais
-Interatividade: Cada exercício inclui um botão para processar e exibir resultados.
-Usabilidade: Layout intuitivo, com atividades divididas em colunas para uma organização visual clara.
-Acessibilidade: Cores contrastantes e tamanhos de fonte legíveis para facilitar a leitura.
+**Interatividade**: Cada exercício inclui um botão para processar e exibir resultados.
+**Usabilidade**: Layout intuitivo, com atividades divididas em colunas para uma organização visual clara.
+**Acessibilidade**: Cores contrastantes e tamanhos de fonte legíveis para facilitar a leitura.
 
 
 
 - # 🔍 Exemplos de Uso
-Exercício 1 - Cálculo da Soma
+Exercício 1 - Cálculo da Soma<br>
 Ao clicar em "Calcular Soma", o resultado da soma incremental será exibido na área de resultado do exercício.
 
-Exercício 2 - Verificação de Fibonacci
+Exercício 2 - Verificação de Fibonacci<br>
 Digite um número, clique em "Verificar Fibonacci", e o sistema retornará se o número pertence ou não à sequência.
 
 ... (Repita esse formato para os demais exercícios)
