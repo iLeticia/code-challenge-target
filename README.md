@@ -31,8 +31,8 @@ Siga os passos abaixo para configurar e executar o servidor localmente.
 1. **Clone este Repositório**:
    ```bash
    
-   git clone https://github.com/seuusuario/code-challenge.git
-   cd code-challenge
+   git clone (https://github.com/iLeticia/code-challenge-target)
+   cd code-challenge-target
 
 
 # Rotas para Teste
