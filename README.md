@@ -14,10 +14,12 @@ Siga os passos abaixo para configurar e executar o servidor localmente.
 
 1. **Clone este Repositório**:
    ```bash
+   
    git clone https://github.com/seuusuario/code-challenge.git
    cd code-challenge
 
-**Rotas para Teste**
+
+# Rotas para Teste
    
 Exercício 1 - Soma com Loop
 Acesse: http://localhost:3000/exercicio1
@@ -41,5 +43,5 @@ Descrição: Substitua palavra pelo texto que deseja inverter. A resposta exibir
 
 **Tecnologias Utilizadas**
 
-Node.js e Express para o servidor e roteamento.
+Node.js e Express para o servidor e roteamento.<br>
 JavaScript para lógica de programação e manipulação de dados.
